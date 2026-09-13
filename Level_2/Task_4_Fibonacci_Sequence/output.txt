@@ -1,5 +1,5 @@
 Cognifyz Python Development Internship
-Level 2 - Task 3: Fibonacci Sequence
+Level 2 - Task 4: Fibonacci Sequence
 
 Test Case 1
 Input: 10

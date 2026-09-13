@@ -1,0 +1,12 @@
+Cognifyz Python Development Internship
+Level 1 - Task 5: Palindrome Checker
+
+Test Case 1
+Input: madam
+Output: It is a palindrome
+
+Test Case 2
+Input: hello
+Output: It is not a palindrome
+
+Status: Successfully Completed

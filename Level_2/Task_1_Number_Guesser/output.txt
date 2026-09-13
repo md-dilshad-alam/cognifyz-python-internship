@@ -1,0 +1,8 @@
+Cognifyz Python Development Internship
+Level 2 - Task 1: Number Guesser
+
+Test Case 1
+Input: 42
+Output: Wrong guess! The correct number was: 50
+
+Status: Successfully Completed

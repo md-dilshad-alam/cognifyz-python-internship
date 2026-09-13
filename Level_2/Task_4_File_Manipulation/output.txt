@@ -1,0 +1,11 @@
+Cognifyz Python Development Internship
+Level 2 - Task 4: File Manipulation
+
+Test Case 1
+File Created: sample.txt
+
+File Content:
+This is a sample file created for the Cognifyz internship.
+Python file manipulation task is successfully completed.
+
+Status: Successfully Completed

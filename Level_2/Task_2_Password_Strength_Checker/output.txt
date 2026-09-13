@@ -1,0 +1,8 @@
+Cognifyz Python Development Internship
+Level 2 - Task 2: Password Strength Checker
+
+Test Case 1
+Input: Dilshad@123
+Output: Strong password
+
+Status: Successfully Completed

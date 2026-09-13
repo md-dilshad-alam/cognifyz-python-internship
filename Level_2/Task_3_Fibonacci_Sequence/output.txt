@@ -1,0 +1,8 @@
+Cognifyz Python Development Internship
+Level 2 - Task 3: Fibonacci Sequence
+
+Test Case 1
+Input: 10
+Output: 0 1 1 2 3 5 8 13 21 34
+
+Status: Successfully Completed

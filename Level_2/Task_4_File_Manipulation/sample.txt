@@ -1,0 +1,2 @@
+This is a sample file created for the Cognifyz internship.
+Python file manipulation task is successfully completed.

@@ -1,0 +1,12 @@
+Cognifyz Python Development Internship
+Level 1 - Task 3: Email Validator
+
+Test Case 1
+Input: dilshad@gmail.com
+Output: Valid email address
+
+Test Case 2
+Input: v
+Output: Invalid email address
+
+Status: Successfully Completed

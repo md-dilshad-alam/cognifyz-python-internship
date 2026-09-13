@@ -1,0 +1,16 @@
+Cognifyz Python Development Internship
+Level 1 - Task 6: Guessing Game
+
+Test Case 1
+Input: 25
+Output: Too low!
+
+Test Case 2
+Input: 50
+Output: Too high!
+
+Test Case 3
+Input: 42
+Output: Correct! You guessed the number.
+
+Status: Successfully Completed

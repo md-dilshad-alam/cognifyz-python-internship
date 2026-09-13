@@ -1,0 +1,14 @@
+Cognifyz Python Development Internship
+Level 1 - Task 2: Temperature Conversion
+
+Test Case 1
+Input Temperature: 25
+Input Unit: C
+Output: 77.0 Fahrenheit
+
+Test Case 2
+Input Temperature: 77
+Input Unit: F
+Output: 25.0 Celsius
+
+Status: Successfully Completed

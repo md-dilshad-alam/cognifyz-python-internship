@@ -1,13 +1,16 @@
-filename = "sample.txt"
+import re
+from collections import Counter
 
-# Create and write to the file
-with open(filename, "w") as file:
-    file.write("This is a sample file created for the Cognifyz internship.\n")
-    file.write("Python file manipulation task is successfully completed.")
+filename = r"Level_2\Task_4_File_Manipulation\sample.txt"
 
-# Read the file
 with open(filename, "r") as file:
     content = file.read()
 
-print("File content:")
-print(content)
+words = re.findall(r"\b\w+\b", content.lower())
+
+word_counts = Counter(words)
+
+print("Word occurrences:")
+
+for word in sorted(word_counts):
+    print(word, ":", word_counts[word])
